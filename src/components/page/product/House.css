@@ -1,0 +1,31 @@
+.house h2{
+    color:rgb(61, 81, 168);
+    margin-top: 30px;
+}
+
+
+.house h3{
+    margin-left: 50px;
+    text-align: left;
+}
+
+.houseimage{
+    position:flex;
+    margin-top: 40px;
+}
+.house-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.house h4{
+    text-align: left;
+    margin-left: 60px;
+    font-size: 20px;
+    color:rgb(4,29,4);
+}
+
+.p-house{
+    text-align: left;
+    margin-left: 60px;
+}

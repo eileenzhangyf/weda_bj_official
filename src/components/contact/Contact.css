@@ -1,0 +1,30 @@
+.Contact{
+    margin-top:25px;
+    background-color:grey;
+}
+
+.Contact h1{
+    padding-top: 15px;
+    color:whitesmoke;
+}
+
+.info-all{
+    padding-top:20px;
+    color:whitesmoke;
+    text-align: left;
+    margin-left: 50px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    float:left;
+}
+.info-all .info-item{
+    padding:6px 0px;
+    font-weight: bold;
+}
+
+.contact-info{
+    padding-bottom: 25px;
+
+}

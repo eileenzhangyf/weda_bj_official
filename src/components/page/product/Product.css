@@ -1,0 +1,31 @@
+.product{
+    margin-top:0;
+   
+}
+
+.product h1{
+    font-size: 30px;
+    color: rgb(61, 81, 168);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-bottom:2px dashed rgb(168, 152, 228);
+    margin:0px 80px;
+    padding: 15px 0;
+}
+
+.product li{
+    display: inline-table;
+    padding: 15px 30px;
+
+}
+
+.main-item{
+    background-color:rgb(221, 216, 216);
+    margin:1em 0em;
+    padding:0.5em 0.5em;
+
+}
+
+.main-item:hover{
+    background-color: wheat;
+}
+

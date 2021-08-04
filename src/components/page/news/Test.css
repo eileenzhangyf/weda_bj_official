@@ -1,0 +1,30 @@
+.test{
+    overflow: hidden;
+}
+
+.menu-top{
+    margin:0;
+    background-color: rgb(9, 77, 122);
+    box-shadow: none;
+    border:none;
+}
+.menu-top .intro{
+    color:whitesmoke;
+    font-size: 1.58em;
+    font-weight: 800;
+}
+
+.d-item{
+    display:block;
+    position:relative;
+    border:0.5px solid rgb(49, 25, 189);
+    background-color:whitesmoke;
+    max-width: 100%;
+    height:35px;
+}
+
+.d-item .spec{
+    color:rgb(9, 77, 122);
+    font-size: 1.0em;
+    margin:5px 5px;
+}

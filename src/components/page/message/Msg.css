@@ -1,0 +1,60 @@
+.messages{
+    margin-top:30px;
+    background-color:rgb(87, 114, 122);
+}
+
+.msg-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+
+
+.messages h1{
+    font-size: 30px;
+    padding: 15px 0;
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-bottom:2px dashed rgb(238, 236, 243);
+    margin: 0px 80px;
+}
+.form{
+    margin-left:100px;
+    margin-top: 80px;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 30px;
+}
+
+
+.msg-text{
+    margin-top: 30px;
+    padding-right: 100px;
+}
+
+.msg-text h2{
+    color:ivory;
+    font-weight: 800;
+}
+
+.msg-text ul{
+    list-style-type: none;
+}
+
+.msg-text ul li{
+    margin: 25px 0;
+    text-align: left;
+}
+.msg-text li a{
+    color:white;
+    font-weight: 800;
+    text-decoration: none;
+
+}
+.msg-logos{
+    padding-right:20px;
+}
+.msg-img{
+    margin:10px 40px;
+}

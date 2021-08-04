@@ -1,0 +1,29 @@
+.environment h2{
+    color:rgb(61, 81, 168);
+}
+
+.environment h4{
+    text-align: left;
+    margin-left:60px;
+    font-size: 20px;
+    color:rgb(4,29,4);
+}
+
+.p-env{
+    text-align: left;
+    margin-left: 60px;
+}
+
+.e-text{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.env-text{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    margin-top:10px;
+}

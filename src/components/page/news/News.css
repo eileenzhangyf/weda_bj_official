@@ -1,0 +1,31 @@
+.news{
+    margin-top: 20px;
+}
+
+
+
+.news h1{
+    font-size: 30px;
+    padding:15px 0;
+    color:rgb(61,81,168);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:0 80px;
+    border-bottom: 2px dashed rgb(168,152,228);
+    margin:0 80px;
+}
+
+.news .post-show{
+    margin-left: 10px;
+    display: inline-block;
+
+}
+
+.postbody{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.postimg{
+    margin-top:60px;
+    margin-right:30px;
+}

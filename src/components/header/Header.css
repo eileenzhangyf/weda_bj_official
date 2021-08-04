@@ -1,0 +1,54 @@
+.header{
+  display:flex;
+  padding:0.5rem 0.5rem;
+  justify-content: space-around;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.77rem;
+  line-height: 1.25;
+  background-color: rgb(9, 77, 122);
+  /*position: fixed;*/
+  box-shadow: 0 0.2rem 0.6rem 0 black;
+  top:0;
+  font-weight: 800;;
+  width: 100%;
+  opacity: 1;
+  z-index: 99999;  
+  /*margin-bottom: 20px;*/
+}
+
+.header-logo{
+  display: flex;
+  flex-grow: 1;
+  width: 8em;
+  height:5em;
+  margin-left: 0em;
+}
+
+nav{
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+}
+
+nav li{
+  display: inline-block;
+  padding: 0 10px;
+  margin: 0 15px;
+}
+
+/*
+.header li{
+  background-color:inherit;
+  display: inline-table;
+  padding-left: 8vw;
+  padding-right:7vw;
+  margin: 0rem;
+}*/
+
+.header li a {
+  text-decoration: none;
+  color:whitesmoke;
+  font-size: 1.58em;
+  /*align-items: center;*/
+}
